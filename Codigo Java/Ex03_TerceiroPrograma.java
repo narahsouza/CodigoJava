@@ -1,4 +1,4 @@
-class TerceiroPrograma {
+class Ex03_TerceiroPrograma {
 	public static void main (String args[]) {
 	
 	double boletoValor;

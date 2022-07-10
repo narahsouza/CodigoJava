@@ -1,4 +1,4 @@
-class SegundoPrograma {
+class Ex02_SegundoPrograma {
 	public static void main (String args[]) {
 		int idade;
 		idade=35;

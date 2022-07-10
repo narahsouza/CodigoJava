@@ -1,4 +1,4 @@
-class CalculoIMC {
+class Ex04_CalculoIMC {
 	public static void main (String args[]) {
 	
 	double valorPesoKilogramas;

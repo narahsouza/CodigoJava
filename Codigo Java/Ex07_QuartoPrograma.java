@@ -1,4 +1,4 @@
-public class QuartoPrograma {
+public class Ex07_QuartoPrograma {
     
     public static void main(String args[]) {
         
