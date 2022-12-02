@@ -1,4 +1,6 @@
-class Ex02_SegundoPrograma {
+// Página 23 - Segundo Programa
+
+class SegundoPrograma {
 	public static void main (String args[]) {
 		int idade;
 		idade=35;

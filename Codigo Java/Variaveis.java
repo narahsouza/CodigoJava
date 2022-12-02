@@ -1,4 +1,6 @@
-public class Ex05_Variaveis {
+// Página 29 - Código 1. Teste com tipos primitivos do Java.
+
+public class Variaveis {
 	
 	public static void main (String args[]) {
 		boolean a = true;

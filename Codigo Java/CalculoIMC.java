@@ -1,4 +1,6 @@
-class Ex04_CalculoIMC {
+// Página 26 - Programa para calcular o IMC (Índice de Massa Corporal) de uma pessoa.
+
+class CalculoIMC {
 	public static void main (String args[]) {
 	
 	double valorPesoKilogramas;

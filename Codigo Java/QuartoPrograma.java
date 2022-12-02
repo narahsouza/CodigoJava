@@ -1,4 +1,6 @@
-public class Ex07_QuartoPrograma {
+// Página 37 - Código 3. Classe QuartoPrograma.
+
+public class QuartoPrograma {
     
     public static void main(String args[]) {
         

@@ -1,4 +1,6 @@
-class Ex03_TerceiroPrograma {
+// Página 24 - Terceiro Programa
+
+class TerceiroPrograma {
 	public static void main (String args[]) {
 	
 	double boletoValor;
