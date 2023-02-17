@@ -7,16 +7,15 @@ public class TestaSoma {
 		
 		MatematicaAvancada ma=new MatematicaAvancada();
 		ma.soma(10, 5);
-		
-		// System.out.println("Resultado: "+ma.getResultado());
-		
+				
 		double rsto= ma.getResultado(); 
 		System.out.println("Resultado: "+rsto); 
 		
 		if(ma.par(rsto)) { 
-			System.out.println("Este número é par"); 
-			
-		} else { 
-			System.out.println("Este número é ímpar"); }
+			System.out.println("Este numero e par"); 	
+		} 
+		else { 
+			System.out.println("Este numero e impar");
+		}
 	}
 }
