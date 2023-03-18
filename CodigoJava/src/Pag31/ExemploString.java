@@ -1,5 +1,7 @@
 // Página 31 - Exemplo de String.
 
+package Pag31;
+
 public class ExemploString {
 
     public static void main (String args[]) {

@@ -4,7 +4,9 @@
 // Página 42 - Código 8. Classe QuartoPrograma utilizando pacote Apoio.
 // Página 46 - Código 11. QuartoPrograma.java.
 
-import Apoio.Matematica;
+package Pag37;
+
+import Pag37.Apoio.Matematica;
 
 public class QuartoPrograma {
     

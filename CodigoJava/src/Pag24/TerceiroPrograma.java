@@ -1,5 +1,7 @@
 // Página 24 - Terceiro Programa
 
+package Pag24;
+
 class TerceiroPrograma {
 	public static void main (String args[]) {
 	

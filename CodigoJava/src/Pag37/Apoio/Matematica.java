@@ -4,7 +4,7 @@
 // Página 42 - Código 7. Classe Matematica dentro do pacote Apoio.
 // Página 46 - Código 10. Matematica.java.
 
-package Apoio;
+package Pag37.Apoio;
 
 public class Matematica {
 

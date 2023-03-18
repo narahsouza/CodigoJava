@@ -1,5 +1,7 @@
 // Página 23 - Segundo Programa
 
+package Pag23;
+
 class SegundoPrograma {
 	public static void main (String args[]) {
 		int idade;

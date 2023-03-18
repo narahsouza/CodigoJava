@@ -1,5 +1,7 @@
 // Página 29 - Código 1. Teste com tipos primitivos do Java.
 
+package Pag29;
+
 public class Variaveis {
 	
 	public static void main (String args[]) {
